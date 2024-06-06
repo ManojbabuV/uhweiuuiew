@@ -1,0 +1,23 @@
+/* src/components/EmployeeList.css */
+  /* .employee-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 80px;
+    margin-right: 140px;
+    gap: 30px;
+    
+    background-color: #ffffff; 
+ }   */
+
+
+ .employee-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%; 
+  gap: 20px;  
+}
+
+
+
+ 

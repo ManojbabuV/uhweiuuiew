@@ -1,0 +1,19 @@
+.dashboard {
+    display: flex;
+    flex-direction: column;
+     
+    overflow: hidden;
+    background-color: #ffffff;
+  }
+  
+  .container { 
+    max-width: 1200px;
+    padding: 20px; 
+    overflow: hidden;
+    background-color: #ffffff;
+  }
+
+
+
+
+  /* src/components/emplo.css */
